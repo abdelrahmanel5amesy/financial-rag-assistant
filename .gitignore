@@ -1,0 +1,21 @@
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment Variables
+.env
+backend/.env
+frontend/.env
+
+# Local Vector Store & Logs
+data/chroma_db/
+*.log
+
+# Large Datasets / PDFs
+data/*.pdf

@@ -1,0 +1,22 @@
+Question,Retrieved Source,Generated Answer,Correct or Not
+What was Apple's total net sales in fiscal year 2025?,"Apple_annual2025.pdf (p.26), Apple_annual2025.pdf (p.23), Apple_annual2025.pdf (p.32)","According to the provided document, Apple's total net sales in fiscal year 2025 was $416,161 million. (Page 32 of [Apple_annual2025.pdf])",Correct
+Who is the Chief Executive Officer of Apple Inc.?,"Apple_annual2025.pdf (p.77), Apple_annual2025.pdf (p.6), Apple_annual2025.pdf (p.15), Apple_annual2025.pdf (p.80), Apple_annual2025.pdf (p.53)",I do not know based on the files.,Correct
+What are the reportable business segments of Microsoft?,"Microsoft_annual2025.pdf (p.35), Microsoft_annual2025.pdf (p.6), Microsoft_annual2025.pdf (p.82)","According to Microsoft's annual report (Page 6), their reportable segments are:
+
+1. Productivity and Business Processes
+2. Intelligent Cloud
+3. More Personal Computing",Correct
+What was Apple's revenue from Services in 2025?,"Apple_annual2025.pdf (p.26), Apple_annual2025.pdf (p.15), Apple_annual2025.pdf (p.6), Apple_annual2025.pdf (p.32)","According to the provided document, Apple's revenue from Services in 2025 was $109,158 million.",Correct
+What is Microsoft's mission statement?,"Microsoft_annual2025.pdf (p.6), Microsoft_annual2025.pdf (p.4), Microsoft_annual2025.pdf (p.34)",Our mission is to empower every person and every organization on the planet to achieve more. (Page 4),Correct
+What were Apple's research and development expenses in 2025?,"Apple_annual2025.pdf (p.48), Apple_annual2025.pdf (p.77), Apple_annual2025.pdf (p.6), Apple_annual2025.pdf (p.32), Apple_annual2025.pdf (p.27)","According to the document, Apple's research and development expenses in 2025 were $34,550 million. (Apple_annual2025.pdf, Page 27)",Correct
+What are the main products included in Apple's Mac line?,"Apple_annual2025.pdf (p.4), Apple_annual2025.pdf (p.5), Apple_annual2025.pdf (p.24), Apple_annual2025.pdf (p.32)","The main products included in Apple's Mac line are:
+
+1. Laptops: MacBook Air and MacBook Pro
+2. Desktops: iMac, Mac mini, Mac Studio, and Mac Pro",Correct
+What were the three operating segments of Microsoft in fiscal year 2025?,"Microsoft_annual2025.pdf (p.35), Microsoft_annual2025.pdf (p.6), Microsoft_annual2025.pdf (p.54), Microsoft_annual2025.pdf (p.34)","According to Microsoft_annual2025.pdf, Page 6, the three operating segments of Microsoft in fiscal year 2025 are:
+
+1. Productivity and Business Processes
+2. Intelligent Cloud
+3. More Personal Computing",Correct
+What was Apple's diluted earnings per share in 2025?,"Apple_annual2025.pdf (p.34), Apple_annual2025.pdf (p.32), Apple_annual2025.pdf (p.35), Apple_annual2025.pdf (p.39)","According to the Consolidated Financial Statements, Apple's diluted earnings per share for the year ended September 27, 2025 was $7.46 (see [Apple_annual2025.pdf, Page 35]).",Correct
+How does Microsoft describe the ambitions that drive its research and development?,"Microsoft_annual2025.pdf (p.9), Microsoft_annual2025.pdf (p.4), Microsoft_annual2025.pdf (p.34)","According to Page 34 of the Microsoft_annual2025.pdf, Microsoft describes its research and development ambitions as pushing ""the boundaries of what is possible"" through a broad range of research and development activities that seek to identify and address the changing demands of customers and users, industry trends, and competitive forces.",Correct

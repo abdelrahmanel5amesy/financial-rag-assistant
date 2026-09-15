@@ -1,0 +1,9 @@
+{
+    "embedding_model": "all-MiniLM-L6-v2",
+    "llm_model": "llama3.2",
+    "vector_store_path": "../data/chroma_db",
+    "collection_name": "financial_filings",
+    "chunk_size": 700,
+    "chunk_overlap": 100,
+    "default_top_k": 8
+}

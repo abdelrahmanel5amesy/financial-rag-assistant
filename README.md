@@ -16,7 +16,7 @@ An end-to-end Retrieval-Augmented Generation (RAG) assistant designed to analyze
 
 ## 📁 Project Structure
 
-```text
+text
 rag-assistant-project/
 ├── backend/
 │   ├── app/
@@ -45,7 +45,6 @@ rag-assistant-project/
 └── README.md
 
 ---
-
 ## ⚙️ Setup & Installation
 
 ### 1. Prerequisites
